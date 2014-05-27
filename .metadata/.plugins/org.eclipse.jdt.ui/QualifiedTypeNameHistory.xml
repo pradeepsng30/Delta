@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="com.example.calcy.R.id"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="android.widget.EditText"/>
+<fullyQualifiedTypeName name="com.example.slvsudoku.R.id"/>
+<fullyQualifiedTypeName name="android.media.MediaPlayer"/>
+<fullyQualifiedTypeName name="android.hardware.SensorManager"/>
+<fullyQualifiedTypeName name="com.example.fullonn.R.color"/>
+<fullyQualifiedTypeName name="com.example.fullonn.R.id"/>
+<fullyQualifiedTypeName name="android.util.ArrayMap"/>
+<fullyQualifiedTypeName name="android.net.Uri"/>
+<fullyQualifiedTypeName name="android.content.ContentResolver"/>
+<fullyQualifiedTypeName name="android.database.Cursor"/>
+<fullyQualifiedTypeName name="android.widget.ListView"/>
+<fullyQualifiedTypeName name="android.provider.MediaStore"/>
+<fullyQualifiedTypeName name="android.provider.MediaStore.Audio"/>
+<fullyQualifiedTypeName name="android.provider.MediaStore.Audio.Media"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="android.view.LayoutInflater"/>
+<fullyQualifiedTypeName name="android.widget.LinearLayout"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.example.rhythmic.R.layout"/>
+<fullyQualifiedTypeName name="android.widget.MediaController"/>
+<fullyQualifiedTypeName name="android.widget.MediaController.MediaPlayerControl"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="com.example.rhythmic.R.id"/>
+<fullyQualifiedTypeName name="android.media.AudioManager"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="android.view.KeyEvent"/>
+<fullyQualifiedTypeName name="android.os.SystemClock"/>
+<fullyQualifiedTypeName name="com.example.rhythmic.MusicService.MusicBinder"/>
+<fullyQualifiedTypeName name="android.hardware.Sensor"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="com.example.shakeit.R.id"/>
+<fullyQualifiedTypeName name="org.scilab.modules.javasci.Scilab"/>
+</qualifiedTypeNameHistroy>

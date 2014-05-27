@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Extracts string &apos;null&apos; into R.string.seven" description="Extracts string &apos;null&apos; into R.string.seven" flags="6" id="com.android.ide.eclipse.adt.refactoring.extract.string" mode="SELECT_NEW_ID" proj="/Calcy" rplc-all-java="false" rplc-all-xml="false" stamp="1395319635092"/>&#x0A;<refactoring comment="Extracts string &apos;null&apos; into R.string.Seven" description="Extracts string &apos;null&apos; into R.string.Seven" flags="6" id="com.android.ide.eclipse.adt.refactoring.extract.string" mode="SELECT_NEW_ID" proj="/Calcy" rplc-all-java="false" rplc-all-xml="false" stamp="1395321490383"/>
+</session>

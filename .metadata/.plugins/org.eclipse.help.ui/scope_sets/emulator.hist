@@ -1,0 +1,4 @@
+#Thu Mar 13 00:21:54 IST 2014
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=emulator

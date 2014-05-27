@@ -1,0 +1,5 @@
+package org.scilab.modules.javasci;
+
+public class Scilab {
+
+}

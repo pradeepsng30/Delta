@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Calcy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string android:id="@+id/string1" android:layout_width="wrap_content" android:layout_height="wrap_content" name="one">1</string>
+    <string android:id="@+id/string1" android:layout_height="wrap_content" android:layout_width="wrap_content" name="two">2</string>
+    <string android:id="@+id/string1" android:layout_width="wrap_content" android:layout_height="wrap_content" name="three">3</string>
+    <string android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/string1" name="four">4</string>
+    <string android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/string1" name="five">5</string>
+    <string android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/string1" name="six">6</string>
+    <string android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/string1" name="seven">7</string>
+    <string android:id="@+id/string1" android:layout_width="wrap_content" android:layout_height="wrap_content" name="eight">8</string>
+    <string android:id="@+id/string1" android:layout_height="wrap_content" android:layout_width="wrap_content" name="nine">9</string>
+    <string android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/string1" name="zero">0</string>
+    <string android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/string1" name="plus">+</string>
+    <string android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/string1" name="minus">-</string>
+    <string android:id="@+id/string1" android:layout_height="wrap_content" android:layout_width="wrap_content" name="multiply">x</string>
+    <string android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/string1" name="divide">/</string>
+    <string android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/string1" name="equal">=</string>
+    <string name="credit">By- Pradeep ;-)</string>
+  
+
+</resources>

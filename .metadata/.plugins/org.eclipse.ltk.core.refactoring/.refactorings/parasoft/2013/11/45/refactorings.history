@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Extracts string &apos;null&apos; into R.string.arasoft" description="Extracts string &apos;null&apos; into R.string.arasoft" flags="6" id="com.android.ide.eclipse.adt.refactoring.extract.string" mode="SELECT_NEW_ID" proj="/parasoft" rplc-all-java="false" rplc-all-xml="false" stamp="1383998468640"/>&#x0A;<refactoring comment="Change Widget Type" description="Change Widget Type" file="/parasoft/res/layout/activity1.xml" flags="6" id="com.android.ide.eclipse.adt.refactoring.changeview" proj="/parasoft" sel-end="661" sel-start="0" stamp="1383998762134" type="android.widget.Button"/>
+</session>
